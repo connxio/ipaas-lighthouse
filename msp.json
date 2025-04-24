@@ -23,6 +23,15 @@
         "principalId": "512b1891-8fe6-4d08-b768-408e65d52c46",
         "principalIdDisplayName": "Connxio Team Members",
         "roleDefinitionId": "b24988ac-6180-42a0-ab88-20f7382dd24c"
+      },
+      {
+        "principalId": "32036acb-f0e6-4c6d-9914-9cd40f1d7edf",
+        "principalIdDisplayName": "Automation Account",
+        "roleDefinitionId": "18d7d88d-d35e-4fb5-a5c3-7773c20a72d9",
+        "delegatedRoleDefinitionIds": [
+          "b24988ac-6180-42a0-ab88-20f7382dd24c",
+          "91c1777a-f3dc-4fae-b103-61d183457e46"
+        ]
       }
     ],
     "mspRegistrationName": "[guid(variables('mspOfferName'))]",
