@@ -17,7 +17,7 @@
   "variables": {
     "mspOfferName": "Connxio",
     "mspOfferDescription": "Connxio by Evidi",
-    "managedByTenantId": "0b933fc9-3391-4302-9d86-85fe9bb5370e",
+    "managedByTenantId": "c7d38c7e-c163-46a2-a0d5-b33771cf10ba",
     "authorizations": [
       {
         "principalId": "512b1891-8fe6-4d08-b768-408e65d52c46",
